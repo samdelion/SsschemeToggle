@@ -14,7 +14,7 @@ Usage:
             "color_scheme_1": "Packages/Color Scheme - Default/Dawn.tmTheme" ,
             "color_scheme_2": "Packages/Color Scheme - Default/Monokai.tmTheme"
           }
-    	}
+      }
 
 Replacing "keys" with your desired hotkey and the "color_scheme_X" fields with your desired color schemes.
 
